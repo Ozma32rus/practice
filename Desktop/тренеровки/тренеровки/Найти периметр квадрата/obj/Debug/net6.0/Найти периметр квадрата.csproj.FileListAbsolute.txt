@@ -1,0 +1,15 @@
+C:\Users\Igor\Desktop\тренеровки\Найти периметр квадрата\bin\Debug\net6.0\Найти периметр квадрата.exe
+C:\Users\Igor\Desktop\тренеровки\Найти периметр квадрата\bin\Debug\net6.0\Найти периметр квадрата.deps.json
+C:\Users\Igor\Desktop\тренеровки\Найти периметр квадрата\bin\Debug\net6.0\Найти периметр квадрата.runtimeconfig.json
+C:\Users\Igor\Desktop\тренеровки\Найти периметр квадрата\bin\Debug\net6.0\Найти периметр квадрата.dll
+C:\Users\Igor\Desktop\тренеровки\Найти периметр квадрата\bin\Debug\net6.0\Найти периметр квадрата.pdb
+C:\Users\Igor\Desktop\тренеровки\Найти периметр квадрата\obj\Debug\net6.0\Найти периметр квадрата.csproj.AssemblyReference.cache
+C:\Users\Igor\Desktop\тренеровки\Найти периметр квадрата\obj\Debug\net6.0\Найти периметр квадрата.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\тренеровки\Найти периметр квадрата\obj\Debug\net6.0\Найти периметр квадрата.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\тренеровки\Найти периметр квадрата\obj\Debug\net6.0\Найти периметр квадрата.AssemblyInfo.cs
+C:\Users\Igor\Desktop\тренеровки\Найти периметр квадрата\obj\Debug\net6.0\Найти периметр квадрата.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\тренеровки\Найти периметр квадрата\obj\Debug\net6.0\Найти периметр квадрата.dll
+C:\Users\Igor\Desktop\тренеровки\Найти периметр квадрата\obj\Debug\net6.0\refint\Найти периметр квадрата.dll
+C:\Users\Igor\Desktop\тренеровки\Найти периметр квадрата\obj\Debug\net6.0\Найти периметр квадрата.pdb
+C:\Users\Igor\Desktop\тренеровки\Найти периметр квадрата\obj\Debug\net6.0\Найти периметр квадрата.genruntimeconfig.cache
+C:\Users\Igor\Desktop\тренеровки\Найти периметр квадрата\obj\Debug\net6.0\ref\Найти периметр квадрата.dll

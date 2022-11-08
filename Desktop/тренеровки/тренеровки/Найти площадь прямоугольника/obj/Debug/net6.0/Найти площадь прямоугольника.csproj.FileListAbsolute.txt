@@ -1,0 +1,15 @@
+C:\Users\Igor\Desktop\тренеровки\Найти площадь прямоугольника\bin\Debug\net6.0\Найти площадь прямоугольника.exe
+C:\Users\Igor\Desktop\тренеровки\Найти площадь прямоугольника\bin\Debug\net6.0\Найти площадь прямоугольника.deps.json
+C:\Users\Igor\Desktop\тренеровки\Найти площадь прямоугольника\bin\Debug\net6.0\Найти площадь прямоугольника.runtimeconfig.json
+C:\Users\Igor\Desktop\тренеровки\Найти площадь прямоугольника\bin\Debug\net6.0\Найти площадь прямоугольника.dll
+C:\Users\Igor\Desktop\тренеровки\Найти площадь прямоугольника\bin\Debug\net6.0\Найти площадь прямоугольника.pdb
+C:\Users\Igor\Desktop\тренеровки\Найти площадь прямоугольника\obj\Debug\net6.0\Найти площадь прямоугольника.csproj.AssemblyReference.cache
+C:\Users\Igor\Desktop\тренеровки\Найти площадь прямоугольника\obj\Debug\net6.0\Найти площадь прямоугольника.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\тренеровки\Найти площадь прямоугольника\obj\Debug\net6.0\Найти площадь прямоугольника.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\тренеровки\Найти площадь прямоугольника\obj\Debug\net6.0\Найти площадь прямоугольника.AssemblyInfo.cs
+C:\Users\Igor\Desktop\тренеровки\Найти площадь прямоугольника\obj\Debug\net6.0\Найти площадь прямоугольника.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\тренеровки\Найти площадь прямоугольника\obj\Debug\net6.0\Найти площадь прямоугольника.dll
+C:\Users\Igor\Desktop\тренеровки\Найти площадь прямоугольника\obj\Debug\net6.0\refint\Найти площадь прямоугольника.dll
+C:\Users\Igor\Desktop\тренеровки\Найти площадь прямоугольника\obj\Debug\net6.0\Найти площадь прямоугольника.pdb
+C:\Users\Igor\Desktop\тренеровки\Найти площадь прямоугольника\obj\Debug\net6.0\Найти площадь прямоугольника.genruntimeconfig.cache
+C:\Users\Igor\Desktop\тренеровки\Найти площадь прямоугольника\obj\Debug\net6.0\ref\Найти площадь прямоугольника.dll

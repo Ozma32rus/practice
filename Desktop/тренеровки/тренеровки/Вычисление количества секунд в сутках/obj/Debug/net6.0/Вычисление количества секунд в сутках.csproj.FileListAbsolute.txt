@@ -1,0 +1,15 @@
+C:\Users\Igor\Desktop\тренеровки\Вычисление количества секунд в сутках\bin\Debug\net6.0\Вычисление количества секунд в сутках.exe
+C:\Users\Igor\Desktop\тренеровки\Вычисление количества секунд в сутках\bin\Debug\net6.0\Вычисление количества секунд в сутках.deps.json
+C:\Users\Igor\Desktop\тренеровки\Вычисление количества секунд в сутках\bin\Debug\net6.0\Вычисление количества секунд в сутках.runtimeconfig.json
+C:\Users\Igor\Desktop\тренеровки\Вычисление количества секунд в сутках\bin\Debug\net6.0\Вычисление количества секунд в сутках.dll
+C:\Users\Igor\Desktop\тренеровки\Вычисление количества секунд в сутках\bin\Debug\net6.0\Вычисление количества секунд в сутках.pdb
+C:\Users\Igor\Desktop\тренеровки\Вычисление количества секунд в сутках\obj\Debug\net6.0\Вычисление количества секунд в сутках.csproj.AssemblyReference.cache
+C:\Users\Igor\Desktop\тренеровки\Вычисление количества секунд в сутках\obj\Debug\net6.0\Вычисление количества секунд в сутках.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\тренеровки\Вычисление количества секунд в сутках\obj\Debug\net6.0\Вычисление количества секунд в сутках.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\тренеровки\Вычисление количества секунд в сутках\obj\Debug\net6.0\Вычисление количества секунд в сутках.AssemblyInfo.cs
+C:\Users\Igor\Desktop\тренеровки\Вычисление количества секунд в сутках\obj\Debug\net6.0\Вычисление количества секунд в сутках.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\тренеровки\Вычисление количества секунд в сутках\obj\Debug\net6.0\Вычисление количества секунд в сутках.dll
+C:\Users\Igor\Desktop\тренеровки\Вычисление количества секунд в сутках\obj\Debug\net6.0\refint\Вычисление количества секунд в сутках.dll
+C:\Users\Igor\Desktop\тренеровки\Вычисление количества секунд в сутках\obj\Debug\net6.0\Вычисление количества секунд в сутках.pdb
+C:\Users\Igor\Desktop\тренеровки\Вычисление количества секунд в сутках\obj\Debug\net6.0\Вычисление количества секунд в сутках.genruntimeconfig.cache
+C:\Users\Igor\Desktop\тренеровки\Вычисление количества секунд в сутках\obj\Debug\net6.0\ref\Вычисление количества секунд в сутках.dll

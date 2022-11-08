@@ -1,0 +1,15 @@
+C:\Users\Igor\Desktop\тренеровки\Сложение двух чисел\obj\Debug\net6.0\Сложение двух чисел.csproj.AssemblyReference.cache
+C:\Users\Igor\Desktop\тренеровки\Сложение двух чисел\obj\Debug\net6.0\Сложение двух чисел.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\тренеровки\Сложение двух чисел\obj\Debug\net6.0\Сложение двух чисел.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\тренеровки\Сложение двух чисел\obj\Debug\net6.0\Сложение двух чисел.AssemblyInfo.cs
+C:\Users\Igor\Desktop\тренеровки\Сложение двух чисел\obj\Debug\net6.0\Сложение двух чисел.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\тренеровки\Сложение двух чисел\bin\Debug\net6.0\Сложение двух чисел.exe
+C:\Users\Igor\Desktop\тренеровки\Сложение двух чисел\bin\Debug\net6.0\Сложение двух чисел.deps.json
+C:\Users\Igor\Desktop\тренеровки\Сложение двух чисел\bin\Debug\net6.0\Сложение двух чисел.runtimeconfig.json
+C:\Users\Igor\Desktop\тренеровки\Сложение двух чисел\bin\Debug\net6.0\Сложение двух чисел.dll
+C:\Users\Igor\Desktop\тренеровки\Сложение двух чисел\bin\Debug\net6.0\Сложение двух чисел.pdb
+C:\Users\Igor\Desktop\тренеровки\Сложение двух чисел\obj\Debug\net6.0\Сложение двух чисел.dll
+C:\Users\Igor\Desktop\тренеровки\Сложение двух чисел\obj\Debug\net6.0\refint\Сложение двух чисел.dll
+C:\Users\Igor\Desktop\тренеровки\Сложение двух чисел\obj\Debug\net6.0\Сложение двух чисел.pdb
+C:\Users\Igor\Desktop\тренеровки\Сложение двух чисел\obj\Debug\net6.0\Сложение двух чисел.genruntimeconfig.cache
+C:\Users\Igor\Desktop\тренеровки\Сложение двух чисел\obj\Debug\net6.0\ref\Сложение двух чисел.dll

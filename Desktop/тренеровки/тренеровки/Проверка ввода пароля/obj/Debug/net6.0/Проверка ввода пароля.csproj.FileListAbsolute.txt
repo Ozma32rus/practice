@@ -1,0 +1,15 @@
+C:\Users\Igor\Desktop\тренеровки\Проверка ввода пароля\bin\Debug\net6.0\Проверка ввода пароля.exe
+C:\Users\Igor\Desktop\тренеровки\Проверка ввода пароля\bin\Debug\net6.0\Проверка ввода пароля.deps.json
+C:\Users\Igor\Desktop\тренеровки\Проверка ввода пароля\bin\Debug\net6.0\Проверка ввода пароля.runtimeconfig.json
+C:\Users\Igor\Desktop\тренеровки\Проверка ввода пароля\bin\Debug\net6.0\Проверка ввода пароля.dll
+C:\Users\Igor\Desktop\тренеровки\Проверка ввода пароля\bin\Debug\net6.0\Проверка ввода пароля.pdb
+C:\Users\Igor\Desktop\тренеровки\Проверка ввода пароля\obj\Debug\net6.0\Проверка ввода пароля.csproj.AssemblyReference.cache
+C:\Users\Igor\Desktop\тренеровки\Проверка ввода пароля\obj\Debug\net6.0\Проверка ввода пароля.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\тренеровки\Проверка ввода пароля\obj\Debug\net6.0\Проверка ввода пароля.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\тренеровки\Проверка ввода пароля\obj\Debug\net6.0\Проверка ввода пароля.AssemblyInfo.cs
+C:\Users\Igor\Desktop\тренеровки\Проверка ввода пароля\obj\Debug\net6.0\Проверка ввода пароля.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\тренеровки\Проверка ввода пароля\obj\Debug\net6.0\Проверка ввода пароля.dll
+C:\Users\Igor\Desktop\тренеровки\Проверка ввода пароля\obj\Debug\net6.0\refint\Проверка ввода пароля.dll
+C:\Users\Igor\Desktop\тренеровки\Проверка ввода пароля\obj\Debug\net6.0\Проверка ввода пароля.pdb
+C:\Users\Igor\Desktop\тренеровки\Проверка ввода пароля\obj\Debug\net6.0\Проверка ввода пароля.genruntimeconfig.cache
+C:\Users\Igor\Desktop\тренеровки\Проверка ввода пароля\obj\Debug\net6.0\ref\Проверка ввода пароля.dll

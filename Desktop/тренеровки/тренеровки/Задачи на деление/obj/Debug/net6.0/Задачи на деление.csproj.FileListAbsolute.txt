@@ -1,0 +1,15 @@
+C:\Users\Igor\Desktop\тренеровки\Задачи на деление\obj\Debug\net6.0\Задачи на деление.csproj.AssemblyReference.cache
+C:\Users\Igor\Desktop\тренеровки\Задачи на деление\obj\Debug\net6.0\Задачи на деление.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\тренеровки\Задачи на деление\obj\Debug\net6.0\Задачи на деление.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\тренеровки\Задачи на деление\obj\Debug\net6.0\Задачи на деление.AssemblyInfo.cs
+C:\Users\Igor\Desktop\тренеровки\Задачи на деление\obj\Debug\net6.0\Задачи на деление.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\тренеровки\Задачи на деление\bin\Debug\net6.0\Задачи на деление.exe
+C:\Users\Igor\Desktop\тренеровки\Задачи на деление\bin\Debug\net6.0\Задачи на деление.deps.json
+C:\Users\Igor\Desktop\тренеровки\Задачи на деление\bin\Debug\net6.0\Задачи на деление.runtimeconfig.json
+C:\Users\Igor\Desktop\тренеровки\Задачи на деление\bin\Debug\net6.0\Задачи на деление.dll
+C:\Users\Igor\Desktop\тренеровки\Задачи на деление\bin\Debug\net6.0\Задачи на деление.pdb
+C:\Users\Igor\Desktop\тренеровки\Задачи на деление\obj\Debug\net6.0\Задачи на деление.dll
+C:\Users\Igor\Desktop\тренеровки\Задачи на деление\obj\Debug\net6.0\refint\Задачи на деление.dll
+C:\Users\Igor\Desktop\тренеровки\Задачи на деление\obj\Debug\net6.0\Задачи на деление.pdb
+C:\Users\Igor\Desktop\тренеровки\Задачи на деление\obj\Debug\net6.0\Задачи на деление.genruntimeconfig.cache
+C:\Users\Igor\Desktop\тренеровки\Задачи на деление\obj\Debug\net6.0\ref\Задачи на деление.dll

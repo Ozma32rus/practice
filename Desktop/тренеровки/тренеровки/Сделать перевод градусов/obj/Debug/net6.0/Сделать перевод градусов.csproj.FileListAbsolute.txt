@@ -1,0 +1,15 @@
+C:\Users\Igor\Desktop\тренеровки\Сделать перевод градусов\bin\Debug\net6.0\Сделать перевод градусов.exe
+C:\Users\Igor\Desktop\тренеровки\Сделать перевод градусов\bin\Debug\net6.0\Сделать перевод градусов.deps.json
+C:\Users\Igor\Desktop\тренеровки\Сделать перевод градусов\bin\Debug\net6.0\Сделать перевод градусов.runtimeconfig.json
+C:\Users\Igor\Desktop\тренеровки\Сделать перевод градусов\bin\Debug\net6.0\Сделать перевод градусов.dll
+C:\Users\Igor\Desktop\тренеровки\Сделать перевод градусов\bin\Debug\net6.0\Сделать перевод градусов.pdb
+C:\Users\Igor\Desktop\тренеровки\Сделать перевод градусов\obj\Debug\net6.0\Сделать перевод градусов.csproj.AssemblyReference.cache
+C:\Users\Igor\Desktop\тренеровки\Сделать перевод градусов\obj\Debug\net6.0\Сделать перевод градусов.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\тренеровки\Сделать перевод градусов\obj\Debug\net6.0\Сделать перевод градусов.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\тренеровки\Сделать перевод градусов\obj\Debug\net6.0\Сделать перевод градусов.AssemblyInfo.cs
+C:\Users\Igor\Desktop\тренеровки\Сделать перевод градусов\obj\Debug\net6.0\Сделать перевод градусов.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\тренеровки\Сделать перевод градусов\obj\Debug\net6.0\Сделать перевод градусов.dll
+C:\Users\Igor\Desktop\тренеровки\Сделать перевод градусов\obj\Debug\net6.0\refint\Сделать перевод градусов.dll
+C:\Users\Igor\Desktop\тренеровки\Сделать перевод градусов\obj\Debug\net6.0\Сделать перевод градусов.pdb
+C:\Users\Igor\Desktop\тренеровки\Сделать перевод градусов\obj\Debug\net6.0\Сделать перевод градусов.genruntimeconfig.cache
+C:\Users\Igor\Desktop\тренеровки\Сделать перевод градусов\obj\Debug\net6.0\ref\Сделать перевод градусов.dll

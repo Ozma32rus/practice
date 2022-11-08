@@ -1,0 +1,15 @@
+C:\Users\Igor\Desktop\тренеровки\Найти площадь окружности\obj\Debug\net6.0\Найти площадь окружности.csproj.AssemblyReference.cache
+C:\Users\Igor\Desktop\тренеровки\Найти площадь окружности\obj\Debug\net6.0\Найти площадь окружности.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\тренеровки\Найти площадь окружности\obj\Debug\net6.0\Найти площадь окружности.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\тренеровки\Найти площадь окружности\obj\Debug\net6.0\Найти площадь окружности.AssemblyInfo.cs
+C:\Users\Igor\Desktop\тренеровки\Найти площадь окружности\obj\Debug\net6.0\Найти площадь окружности.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\тренеровки\Найти площадь окружности\bin\Debug\net6.0\Найти площадь окружности.exe
+C:\Users\Igor\Desktop\тренеровки\Найти площадь окружности\bin\Debug\net6.0\Найти площадь окружности.deps.json
+C:\Users\Igor\Desktop\тренеровки\Найти площадь окружности\bin\Debug\net6.0\Найти площадь окружности.runtimeconfig.json
+C:\Users\Igor\Desktop\тренеровки\Найти площадь окружности\bin\Debug\net6.0\Найти площадь окружности.dll
+C:\Users\Igor\Desktop\тренеровки\Найти площадь окружности\bin\Debug\net6.0\Найти площадь окружности.pdb
+C:\Users\Igor\Desktop\тренеровки\Найти площадь окружности\obj\Debug\net6.0\Найти площадь окружности.dll
+C:\Users\Igor\Desktop\тренеровки\Найти площадь окружности\obj\Debug\net6.0\refint\Найти площадь окружности.dll
+C:\Users\Igor\Desktop\тренеровки\Найти площадь окружности\obj\Debug\net6.0\Найти площадь окружности.pdb
+C:\Users\Igor\Desktop\тренеровки\Найти площадь окружности\obj\Debug\net6.0\Найти площадь окружности.genruntimeconfig.cache
+C:\Users\Igor\Desktop\тренеровки\Найти площадь окружности\obj\Debug\net6.0\ref\Найти площадь окружности.dll

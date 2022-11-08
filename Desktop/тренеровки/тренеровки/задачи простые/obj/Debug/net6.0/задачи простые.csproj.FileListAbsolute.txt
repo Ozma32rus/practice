@@ -1,0 +1,15 @@
+C:\Users\Igor\Desktop\тренеровки\задачи простые\bin\Debug\net6.0\задачи простые.exe
+C:\Users\Igor\Desktop\тренеровки\задачи простые\bin\Debug\net6.0\задачи простые.deps.json
+C:\Users\Igor\Desktop\тренеровки\задачи простые\bin\Debug\net6.0\задачи простые.runtimeconfig.json
+C:\Users\Igor\Desktop\тренеровки\задачи простые\bin\Debug\net6.0\задачи простые.dll
+C:\Users\Igor\Desktop\тренеровки\задачи простые\bin\Debug\net6.0\задачи простые.pdb
+C:\Users\Igor\Desktop\тренеровки\задачи простые\obj\Debug\net6.0\задачи простые.csproj.AssemblyReference.cache
+C:\Users\Igor\Desktop\тренеровки\задачи простые\obj\Debug\net6.0\задачи простые.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\тренеровки\задачи простые\obj\Debug\net6.0\задачи простые.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\тренеровки\задачи простые\obj\Debug\net6.0\задачи простые.AssemblyInfo.cs
+C:\Users\Igor\Desktop\тренеровки\задачи простые\obj\Debug\net6.0\задачи простые.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\тренеровки\задачи простые\obj\Debug\net6.0\задачи простые.dll
+C:\Users\Igor\Desktop\тренеровки\задачи простые\obj\Debug\net6.0\refint\задачи простые.dll
+C:\Users\Igor\Desktop\тренеровки\задачи простые\obj\Debug\net6.0\задачи простые.pdb
+C:\Users\Igor\Desktop\тренеровки\задачи простые\obj\Debug\net6.0\задачи простые.genruntimeconfig.cache
+C:\Users\Igor\Desktop\тренеровки\задачи простые\obj\Debug\net6.0\ref\задачи простые.dll

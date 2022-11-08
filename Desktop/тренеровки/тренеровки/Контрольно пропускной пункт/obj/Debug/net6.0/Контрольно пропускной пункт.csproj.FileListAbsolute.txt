@@ -1,0 +1,15 @@
+C:\Users\Igor\Desktop\тренеровки\Контрольно пропускной пункт\bin\Debug\net6.0\Контрольно пропускной пункт.exe
+C:\Users\Igor\Desktop\тренеровки\Контрольно пропускной пункт\bin\Debug\net6.0\Контрольно пропускной пункт.deps.json
+C:\Users\Igor\Desktop\тренеровки\Контрольно пропускной пункт\bin\Debug\net6.0\Контрольно пропускной пункт.runtimeconfig.json
+C:\Users\Igor\Desktop\тренеровки\Контрольно пропускной пункт\bin\Debug\net6.0\Контрольно пропускной пункт.dll
+C:\Users\Igor\Desktop\тренеровки\Контрольно пропускной пункт\bin\Debug\net6.0\Контрольно пропускной пункт.pdb
+C:\Users\Igor\Desktop\тренеровки\Контрольно пропускной пункт\obj\Debug\net6.0\Контрольно пропускной пункт.csproj.AssemblyReference.cache
+C:\Users\Igor\Desktop\тренеровки\Контрольно пропускной пункт\obj\Debug\net6.0\Контрольно пропускной пункт.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\тренеровки\Контрольно пропускной пункт\obj\Debug\net6.0\Контрольно пропускной пункт.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\тренеровки\Контрольно пропускной пункт\obj\Debug\net6.0\Контрольно пропускной пункт.AssemblyInfo.cs
+C:\Users\Igor\Desktop\тренеровки\Контрольно пропускной пункт\obj\Debug\net6.0\Контрольно пропускной пункт.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\тренеровки\Контрольно пропускной пункт\obj\Debug\net6.0\Контрольно пропускной пункт.dll
+C:\Users\Igor\Desktop\тренеровки\Контрольно пропускной пункт\obj\Debug\net6.0\refint\Контрольно пропускной пункт.dll
+C:\Users\Igor\Desktop\тренеровки\Контрольно пропускной пункт\obj\Debug\net6.0\Контрольно пропускной пункт.pdb
+C:\Users\Igor\Desktop\тренеровки\Контрольно пропускной пункт\obj\Debug\net6.0\Контрольно пропускной пункт.genruntimeconfig.cache
+C:\Users\Igor\Desktop\тренеровки\Контрольно пропускной пункт\obj\Debug\net6.0\ref\Контрольно пропускной пункт.dll

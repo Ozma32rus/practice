@@ -1,0 +1,15 @@
+C:\Users\Igor\Desktop\тренеровки\задача с текстом\obj\Debug\net6.0\задача с текстом.csproj.AssemblyReference.cache
+C:\Users\Igor\Desktop\тренеровки\задача с текстом\obj\Debug\net6.0\задача с текстом.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\тренеровки\задача с текстом\obj\Debug\net6.0\задача с текстом.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\тренеровки\задача с текстом\obj\Debug\net6.0\задача с текстом.AssemblyInfo.cs
+C:\Users\Igor\Desktop\тренеровки\задача с текстом\obj\Debug\net6.0\задача с текстом.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\тренеровки\задача с текстом\bin\Debug\net6.0\задача с текстом.exe
+C:\Users\Igor\Desktop\тренеровки\задача с текстом\bin\Debug\net6.0\задача с текстом.deps.json
+C:\Users\Igor\Desktop\тренеровки\задача с текстом\bin\Debug\net6.0\задача с текстом.runtimeconfig.json
+C:\Users\Igor\Desktop\тренеровки\задача с текстом\bin\Debug\net6.0\задача с текстом.dll
+C:\Users\Igor\Desktop\тренеровки\задача с текстом\bin\Debug\net6.0\задача с текстом.pdb
+C:\Users\Igor\Desktop\тренеровки\задача с текстом\obj\Debug\net6.0\задача с текстом.dll
+C:\Users\Igor\Desktop\тренеровки\задача с текстом\obj\Debug\net6.0\refint\задача с текстом.dll
+C:\Users\Igor\Desktop\тренеровки\задача с текстом\obj\Debug\net6.0\задача с текстом.pdb
+C:\Users\Igor\Desktop\тренеровки\задача с текстом\obj\Debug\net6.0\задача с текстом.genruntimeconfig.cache
+C:\Users\Igor\Desktop\тренеровки\задача с текстом\obj\Debug\net6.0\ref\задача с текстом.dll

@@ -1,0 +1,15 @@
+C:\Users\Igor\Desktop\тренеровки\Покупка товара с акциями\bin\Debug\net6.0\Покупка товара с акциями.exe
+C:\Users\Igor\Desktop\тренеровки\Покупка товара с акциями\bin\Debug\net6.0\Покупка товара с акциями.deps.json
+C:\Users\Igor\Desktop\тренеровки\Покупка товара с акциями\bin\Debug\net6.0\Покупка товара с акциями.runtimeconfig.json
+C:\Users\Igor\Desktop\тренеровки\Покупка товара с акциями\bin\Debug\net6.0\Покупка товара с акциями.dll
+C:\Users\Igor\Desktop\тренеровки\Покупка товара с акциями\bin\Debug\net6.0\Покупка товара с акциями.pdb
+C:\Users\Igor\Desktop\тренеровки\Покупка товара с акциями\obj\Debug\net6.0\Покупка товара с акциями.csproj.AssemblyReference.cache
+C:\Users\Igor\Desktop\тренеровки\Покупка товара с акциями\obj\Debug\net6.0\Покупка товара с акциями.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\Desktop\тренеровки\Покупка товара с акциями\obj\Debug\net6.0\Покупка товара с акциями.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\тренеровки\Покупка товара с акциями\obj\Debug\net6.0\Покупка товара с акциями.AssemblyInfo.cs
+C:\Users\Igor\Desktop\тренеровки\Покупка товара с акциями\obj\Debug\net6.0\Покупка товара с акциями.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\тренеровки\Покупка товара с акциями\obj\Debug\net6.0\Покупка товара с акциями.dll
+C:\Users\Igor\Desktop\тренеровки\Покупка товара с акциями\obj\Debug\net6.0\refint\Покупка товара с акциями.dll
+C:\Users\Igor\Desktop\тренеровки\Покупка товара с акциями\obj\Debug\net6.0\Покупка товара с акциями.pdb
+C:\Users\Igor\Desktop\тренеровки\Покупка товара с акциями\obj\Debug\net6.0\Покупка товара с акциями.genruntimeconfig.cache
+C:\Users\Igor\Desktop\тренеровки\Покупка товара с акциями\obj\Debug\net6.0\ref\Покупка товара с акциями.dll
